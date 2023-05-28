@@ -1,5 +1,5 @@
 # Capstone Project Module 3
-Capstone Project Modul 3 Machine Learning
+Capstone Project Modul 3 Machine Learning (Classification)
 
 - Nama: Fadhil Mulyono
 - Program: Job Connector Data Science and Machine Learning (Online)
