@@ -6,6 +6,7 @@ Capstone Project Modul 3 Machine Learning (Classification)
 - Batch: JCDSOL-009
 - Case Study: Travel Insurance
 - Dataset bisa di unduh [di sini](https://www.kaggle.com/datasets/mhdzahier/travel-insurance)
+- [YouTube Video About This Project](https://www.youtube.com/watch?v=U7PIVu94U3E)
 
 **Abstract**
 
